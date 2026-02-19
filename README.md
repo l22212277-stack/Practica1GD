@@ -2,7 +2,7 @@
 
 # Práctica 1: Sistema de Lotka-Volterra
 
-## Información de la estudiante
+## Información del estudiante
 Alberto Villalobos Valdez \[22212277]; L22212277@tectijuana.edu.mx
 
 Gemelos Digitales
