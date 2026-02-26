@@ -1,1 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
+cff-version: 1.2.0
+title: Sistema Lotka-Volterra
+message: >-
+  Gemelos digitales / Ingeniería Biomédica / Tecnológico
+  Nacional de México
+type: software
+authors:
+  - given-names: Alberto 
+    family-names: Villalobos Valdez
+    email: L22212277@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: 'https://github.com/Silva22211767/Practica1GD'
+keywords:
+  - Órbita
+  - Modelo matemático
+  - Punto de equilibrio
+  - Regresión no lineal
+  - Positividad
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-18'
